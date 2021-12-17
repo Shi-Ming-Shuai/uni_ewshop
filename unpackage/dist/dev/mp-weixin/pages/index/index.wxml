@@ -1,0 +1,1 @@
+<view class="content data-v-57280228"><image class="logo data-v-57280228" src="/static/logo.png"></image><text class="data-v-57280228">阿瓦达我的</text><new vue-id="8dd740cc-1" class="data-v-57280228" bind:__l="__l"></new><view class="text-area data-v-57280228"><text class="title data-v-57280228">{{title}}</text></view></view>
